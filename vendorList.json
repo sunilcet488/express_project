@@ -1,0 +1,17 @@
+[
+    {
+      "vendorId": 1000,
+      "vendorName": "Lucky colors",
+      "GST": "GSTIN000454",
+      "email": "lucky@gmail.com",
+      "mobile": "09090232323"
+    },
+    {
+      "vendorId": 1001,
+      "vendorName": "Sunil colors",
+      "GST": "GSTIN000455",
+      "email": "sunil@gmail.com",
+      "mobile": "323232398"
+    }
+  ]
+  
