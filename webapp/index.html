@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<script src="https://sapui5.hana.ondemand.com/resources/sap-ui-core.js"
+				data-sap-ui-libs="sap.m"
+				data-sap-ui-theme="sap_belize"
+				data-sap-ui-resourceroots='{
+					"com.abapskill" : "./"
+				}'
+				data-sap-ui-bindingSyntax="complex"
+				data-sap-ui-language="en">
+		</script>
+		<script>
+
+			var oComponentContainer = new sap.ui.core.ComponentContainer({
+				name: "com.abapskill"
+			});
+
+			oComponentContainer.placeAt("content");
+
+
+		</script>
+	</head>
+	<body class="sapUiBody">
+		<h1>testing</h1>
+		<div id="content"></div>
+	</body>
+</html>

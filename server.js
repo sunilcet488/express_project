@@ -5,7 +5,7 @@ var express = require("express");
 var app = express();
 
 // listen to a port
-app.listen(3001);
+app.listen(process.env.PORT || 3001);
 
 // middleware 
 

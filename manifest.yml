@@ -1,0 +1,6 @@
+---
+version: 1
+applications:
+- name: express_project
+  memory: 512M
+  instances: 1
